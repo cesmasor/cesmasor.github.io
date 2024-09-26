@@ -11,8 +11,6 @@ to create a clone I simply clicked clone and picked the path to a folder on my d
 * Food 🍕
 * Photography 📸
   
-  These are a few of my interest
-  and hobbies I like to do.
 
   
  ## Websites I recommend 💻
