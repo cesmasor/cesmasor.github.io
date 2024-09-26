@@ -12,11 +12,12 @@ to create a clone I simply clicked clone and picked the path to a folder on my d
 * Photography 📸
   
 
-  
- ## Websites I recommend 💻
+## Websites I recommend 💻
+
 
  
   [Visit Wake Tech!](https://www.waketech.edu/) This website is helpfull because I am a student and use this website everyday.
+  
   ![Wake Tech logo](https://github.com/cesmasor/cesmasor.github.io/blob/0c01b9f2473acaf078ece869810167fa26822f36/wake%20tech%20logo.jpg)
 
   
