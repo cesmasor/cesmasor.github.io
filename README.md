@@ -14,7 +14,10 @@ to create a clone I simply clicked clone and picked the path to a folder on my d
   These are a few of my interest
   and hobbies I like to do.
   ## Websites I recommend
-  [Visit Wake Tech!](https://www.waketech.edu/) This webiste is helpfull because I am a student and use this website everyday.
+  [Visit Wake Tech!](https://www.waketech.edu/) This website is helpfull because I am a student and use this website everyday.
+  ![Wake Tech logo](https://github.com/cesmasor/cesmasor.github.io/blob/0c01b9f2473acaf078ece869810167fa26822f36/wake%20tech%20logo.jpg)
+
+  
   
   [Visit YouTube!](https://www.youtube.com/#:~:text=Share%20your%20videos%20with%20friends,%20family,%20and%20the) This webiste has helped me so much with 
   understading school lessons that I have trouble with.
