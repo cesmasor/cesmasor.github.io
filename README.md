@@ -3,17 +3,17 @@ Cesar Mateos-Sorcia Cmateossorcia@my.waketech.edu
 I have created a new Github account for my class
 I created a new repository for my class 
 to create a clone I simply clicked clone and picked the path to a folder on my desktop
-# About me
-## My interest
-* Crossfit
-* Video Games
-* Sports
-* Food
-* Photography
+# About me 
+## My interest 👋
+* Crossfit 🏋️‍♂️
+* Video Games 🎮
+* Sports 🏅
+* Food 🍕
+* Photography 📸
   
   These are a few of my interest
   and hobbies I like to do.
- ## Websites I recommend
+ ## Websites I recommend 💻
   [Visit Wake Tech!](https://www.waketech.edu/) This website is helpfull because I am a student and use this website everyday.
   ![Wake Tech logo](https://github.com/cesmasor/cesmasor.github.io/blob/0c01b9f2473acaf078ece869810167fa26822f36/wake%20tech%20logo.jpg)
 
