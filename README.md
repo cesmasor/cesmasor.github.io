@@ -12,7 +12,7 @@ to create a clone I simply clicked clone and picked the path to a folder on my d
 * Photography 📸
   
 
-## Websites I recommend 💻
+## Websites I reccomend 💻
 
 
  
